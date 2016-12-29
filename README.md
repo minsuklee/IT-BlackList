@@ -1,10 +1,8 @@
-# BlackList
-그리고
-# White List
+# IT BlackList 그리고 White List
 
 최근 이명박.박근혜 정권에서 뿐만아니라 개발자, 우리나라 소프트웨어 산업 관점에서 볼 때 크게 기여한 회사와 개인들의 목록을 정리한 repository. Pull Request 환영
 
-# 기록 예
+* 기록 예
 | 이름 | 소속 | 사유 | 근거 링크들 | 
 | :---: | :---: | :--- | :--- |
 | 홍길동 | 모회사 | 부자에게서 불법 세금 징수 | [홍길동-위키백과][1] |
@@ -22,5 +20,5 @@
 | 내용 11 | 내용 12 | 내용 13 |
 
 #근거링크들
-[1] : https://ko.wikipedia.org/wiki/홍길동 "홍길동"
-[2] : http://www.nanews.co.kr/news/articleView.html?idxno=10146 "'세월호'참사, 관계기관 초기 대응 실패와 근무 태만 등도 문제"
+[1] : https://ko.wikipedia.org/wiki/홍길동 "홍길동" <br />
+[2] : http://www.nanews.co.kr/news/articleView.html?idxno=10146 "'세월호'참사, 관계기관 초기 대응 실패와 근무 태만 등도 문제" <br />
